@@ -1,4 +1,3 @@
-import './Header.css'
 import IconsHeader from "../IconsHeader"
 import Logo from "../Logo"
 import OptionsHeader from "../OptionsHeader"
